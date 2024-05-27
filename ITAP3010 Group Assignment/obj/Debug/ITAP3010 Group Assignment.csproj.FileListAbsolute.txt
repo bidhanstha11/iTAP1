@@ -1,0 +1,15 @@
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\bin\Debug\ITAP3010 Group Assignment.exe.config
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\bin\Debug\ITAP3010 Group Assignment.exe
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\bin\Debug\ITAP3010 Group Assignment.pdb
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010 Group Assignment.csproj.AssemblyReference.cache
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010_Group_Assignment.Form1.resources
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010_Group_Assignment.Properties.Resources.resources
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010 Group Assignment.csproj.GenerateResource.cache
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010 Group Assignment.csproj.CoreCompileInputs.cache
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010 Group Assignment.exe
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010 Group Assignment.pdb
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010_Group_Assignment.Form2.resources
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010_Group_Assignment.Form3.resources
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010_Group_Assignment.OpenDashboard.resources
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010_Group_Assignment.OpenCashierDashboard.resources
+C:\Users\ROG\source\repos\ITAP3010 Group Assignment\obj\Debug\ITAP3010_Group_Assignment.LoginForm.resources

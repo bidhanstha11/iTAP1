@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITAP3010 Group Assignment", "ITAP3010 Group Assignment.csproj", "{CF853658-D301-47CA-A31D-ADFEDF921D7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF853658-D301-47CA-A31D-ADFEDF921D7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF853658-D301-47CA-A31D-ADFEDF921D7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF853658-D301-47CA-A31D-ADFEDF921D7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF853658-D301-47CA-A31D-ADFEDF921D7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AD23EEDB-77B2-4B13-A134-D579D12209DE}
+	EndGlobalSection
+EndGlobal
